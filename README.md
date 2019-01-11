@@ -14,7 +14,7 @@ Run with
 
 `npm start`
 
-to fire the server. VIsit <http://localhost:3000/hello/Homer> to see the result
+to fire the server. VIsit <http://localhost:3000/hello/Homer> to see the result (test server)
 
 Replace `homer` with your name to echo the response. Use `Homer%20Simpson` to test that URL decoding for spaces works
 
